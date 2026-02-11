@@ -7,5 +7,4 @@ Most of my writing focuses on player learning, repetition, and why certain games
 
 I also maintain a small collection of slope games that are playable directly in the browser.
 
-Links:
-- https://crazyslope2.com
+Links: https://crazyslope2.com
